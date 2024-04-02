@@ -1,0 +1,14 @@
+pandas==1.5.3 
+numpy==1.26.4
+scikit-learn==1.4.0
+tensorflow==2.14.0
+tfts==0.0.10
+nvidia-cuda-cupti-cu11==11.8.87
+nvidia-cuda-nvcc-cu11==11.8.89
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.3.0.86
+nvidia-cusolver-cu11==11.4.1.48
+nvidia-cusparse-cu11==11.7.5.86
+nvidia-nccl-cu11==2.16.5
+jupyter==1.0.0
+pip-chill==1.0.3
